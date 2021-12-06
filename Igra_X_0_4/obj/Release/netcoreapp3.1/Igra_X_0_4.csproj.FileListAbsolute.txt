@@ -1,0 +1,16 @@
+D:\VLAD\C++\import_DLL\Igra_X_0_4\Igra_X_0_4\bin\Release\netcoreapp3.1\Igra_X_0_4.exe
+D:\VLAD\C++\import_DLL\Igra_X_0_4\Igra_X_0_4\bin\Release\netcoreapp3.1\Igra_X_0_4.deps.json
+D:\VLAD\C++\import_DLL\Igra_X_0_4\Igra_X_0_4\bin\Release\netcoreapp3.1\Igra_X_0_4.runtimeconfig.json
+D:\VLAD\C++\import_DLL\Igra_X_0_4\Igra_X_0_4\bin\Release\netcoreapp3.1\Igra_X_0_4.runtimeconfig.dev.json
+D:\VLAD\C++\import_DLL\Igra_X_0_4\Igra_X_0_4\bin\Release\netcoreapp3.1\Igra_X_0_4.dll
+D:\VLAD\C++\import_DLL\Igra_X_0_4\Igra_X_0_4\bin\Release\netcoreapp3.1\Igra_X_0_4.pdb
+D:\VLAD\C++\import_DLL\Igra_X_0_4\Igra_X_0_4\obj\Release\netcoreapp3.1\Igra_X_0_4.csproj.AssemblyReference.cache
+D:\VLAD\C++\import_DLL\Igra_X_0_4\Igra_X_0_4\obj\Release\netcoreapp3.1\Igra_X_0_4.Form1.resources
+D:\VLAD\C++\import_DLL\Igra_X_0_4\Igra_X_0_4\obj\Release\netcoreapp3.1\Igra_X_0_4.csproj.GenerateResource.cache
+D:\VLAD\C++\import_DLL\Igra_X_0_4\Igra_X_0_4\obj\Release\netcoreapp3.1\Igra_X_0_4.GeneratedMSBuildEditorConfig.editorconfig
+D:\VLAD\C++\import_DLL\Igra_X_0_4\Igra_X_0_4\obj\Release\netcoreapp3.1\Igra_X_0_4.AssemblyInfoInputs.cache
+D:\VLAD\C++\import_DLL\Igra_X_0_4\Igra_X_0_4\obj\Release\netcoreapp3.1\Igra_X_0_4.AssemblyInfo.cs
+D:\VLAD\C++\import_DLL\Igra_X_0_4\Igra_X_0_4\obj\Release\netcoreapp3.1\Igra_X_0_4.csproj.CoreCompileInputs.cache
+D:\VLAD\C++\import_DLL\Igra_X_0_4\Igra_X_0_4\obj\Release\netcoreapp3.1\Igra_X_0_4.dll
+D:\VLAD\C++\import_DLL\Igra_X_0_4\Igra_X_0_4\obj\Release\netcoreapp3.1\Igra_X_0_4.pdb
+D:\VLAD\C++\import_DLL\Igra_X_0_4\Igra_X_0_4\obj\Release\netcoreapp3.1\Igra_X_0_4.genruntimeconfig.cache

@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "KiHqzbNYf4ONzOM78RU1SOCymx37GJLhe7ospCt6eGWez1AgCpddcT19+aTmBSqVgrdEXYqh0+FLyzR013VWcA==",
+  "success": true,
+  "projectFilePath": "D:\\VLAD\\C++\\import_DLL\\Igra_X_0_4\\Igra_X_0_4\\Igra_X_0_4.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\aldes\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.21\\microsoft.netcore.app.host.win-x64.3.1.21.nupkg.sha512",
+    "C:\\Users\\aldes\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512"
+  ],
+  "logs": []
+}
